@@ -175,7 +175,7 @@ sudo systemctl stop traffic-lights.service
 
 ---
 
-## 🔮 Stretch goals (nice CV boosters)
+## 🔮 Stretch goals
 - **Pedestrian “WALK” LED/buzzer** that blinks during the red hold
 - **Config file** (`config.yaml`) for timings and pins
 - **CLI options** (`--speed 2x`, `--demo`)
